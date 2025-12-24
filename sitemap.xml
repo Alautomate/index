@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alautomate.github.io/index/</loc>
-    <lastmod>2025-12-24</lastmod>
+    <loc>https://alautomate.github.io/index/index.html</loc>
     <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://alautomate.github.io/Fiverr.html</loc>
-    <lastmod>2025-12-24</lastmod>
+    <loc>https://alautomate.github.io/index/Fiverr.html</loc>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://alautomate.github.io/Legiit.html</loc>
-    <lastmod>2025-12-24</lastmod>
+    <loc>https://alautomate.github.io/index/Legiit.html</loc>
     <priority>0.8</priority>
   </url>
-
-  <url>
-    <loc>https://alautomate.github.io/googlef3f5c26ada6ade64.html</loc>
-    <lastmod>2025-12-24</lastmod>
-    <priority>0.5</priority>
-  </url>
-
 </urlset>
